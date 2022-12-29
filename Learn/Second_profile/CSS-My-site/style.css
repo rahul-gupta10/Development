@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Open+Sans&family=Sacramento&display=swap');
+
+h1{
+    font-family: 'Sacramento', sans-serif;
+    font-size: 4rem;
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+}
+h2{
+    font-family: 'Montserrat', cursive;
+    font-size: 2.5rem;
+}
+body,h1
+{
+    margin: 0px;
+    text-align: center;
+    background-color: #e4f9e5;
+}
+.top
+{
+    /* background-color: #e4f9e5; */
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+    padding-top: 100px;
+    
+}
+.bottom-container{
+    padding-top: 50px;
+   
+}
+.bottom-cloud{
+    position: absolute;
+    left: 350px;
+    top: 200px;
+}
+.top-cloud{
+    position: absolute;
+    right: 30%;
+    top: 30px
+}
+
+iframe{
+    border-radius: 50px;
+}
+
+a{
+    margin-left: 20px;
+}
+
+.middle-container img{
+    width: 200px;
+}
+
+.profile-img{
+    border-radius: 100%;
+}

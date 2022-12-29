@@ -1,0 +1,8 @@
+If any object having width (if its display property is not blocked then) we need to use margin: 0 auto 0 auto
+else text-align: center
+
+
+difining multiple family to page 
+font-family : font1 , font2 , font3   (if font1 is not installed on client then it take 2 else 3rd)
+
+font-size: 16px=100% = 1em
