@@ -28,7 +28,9 @@ body,h1
     
 }
 .bottom-container{
-    padding-top: 50px;
+    margin-top: 50px;
+    padding: 30px 0 30px 0;
+    background-color: #66bfbf;
    
 }
 .bottom-cloud{
@@ -51,9 +53,46 @@ a{
 }
 
 .middle-container img{
-    width: 200px;
+    width: 25%;
 }
 
 .profile-img{
     border-radius: 100%;
+    width: 15% !important;
+ }
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto ;
+    text-align: left;
+    line-height: 2;
+}
+
+.s-img{
+    float: left;
+    padding-right: 60px;
+    width: 25%;
+}
+.c-img{
+    float: right;
+    padding-right: 60px;
+    width: 25%;
+}
+
+.btn{
+    text-decoration: none;
+    border: 1px solid;
+    padding: 6px;
+    border-radius: 10px;
+    background-color: #11999e;
+    color: white;
+
+}
+
+.contact-me p{
+    margin-bottom: 40px;
+}
+a{
+    text-decoration: none;
+
 }
